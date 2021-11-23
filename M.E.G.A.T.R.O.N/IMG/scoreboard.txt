@@ -1,0 +1,6 @@
+Midas	10
+Calgar	9
+Shrike	7
+Kantor	8
+Tempest	6
+
